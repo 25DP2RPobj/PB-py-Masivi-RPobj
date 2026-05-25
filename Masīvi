@@ -1,0 +1,16 @@
+
+a = [14, 18, 22, 26, 30]
+nakamais_a = a[-1] + 4
+print("a) nākamais loceklis:", nakamais_a)
+
+
+
+b = [6, 12, 24, 48]
+nakamais_b = b[-1] * 2
+print("b) nākamais loceklis:", nakamais_b)
+
+
+
+c = [3, 5, 9, 17, 33, 65]
+nakamais_c = c[-1] * 2 - 1
+print("c) nākamais loceklis:", nakamais_c)
